@@ -5,13 +5,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.66law.cn.ico",
     "slug": "hualv",
     "status": "up",
-    "uptime": "96.20%",
-    "uptimeDay": "96.20%",
-    "uptimeWeek": "96.20%",
-    "uptimeMonth": "96.20%",
-    "uptimeYear": "96.20%",
+    "uptime": "97.19%",
+    "uptimeDay": "96.40%",
+    "uptimeWeek": "97.19%",
+    "uptimeMonth": "97.19%",
+    "uptimeYear": "97.19%",
     "time": 1333,
-    "timeDay": 1333,
+    "timeDay": 1174,
     "timeWeek": 1333,
     "timeMonth": 1333,
     "timeYear": 1333,
@@ -25,17 +25,19 @@
     "url": "https://www.64365.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.64365.com.ico",
     "slug": "lvtu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2296,
-    "timeDay": 2296,
+    "timeDay": 2180,
     "timeWeek": 2296,
     "timeMonth": 2296,
     "timeYear": 2296,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-09": 0
+    }
   }
 ]
