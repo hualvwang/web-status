@@ -17,6 +17,7 @@ on:
   workflow_dispatch:
 jobs:
   release:
+    runs-on: [self-hosted, Linux, X64]
     name: Setup Upptime
     steps:
       - name: Checkout
