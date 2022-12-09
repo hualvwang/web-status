@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.66law.cn.ico",
     "slug": "hualv",
     "status": "up",
-    "uptime": "98.25%",
-    "uptimeDay": "98.25%",
-    "uptimeWeek": "98.25%",
-    "uptimeMonth": "98.25%",
-    "uptimeYear": "98.25%",
-    "time": 1557,
-    "timeDay": 1557,
-    "timeWeek": 1557,
-    "timeMonth": 1557,
-    "timeYear": 1557,
+    "uptime": "98.27%",
+    "uptimeDay": "98.27%",
+    "uptimeWeek": "98.27%",
+    "uptimeMonth": "98.27%",
+    "uptimeYear": "98.27%",
+    "time": 1482,
+    "timeDay": 1482,
+    "timeWeek": 1482,
+    "timeMonth": 1482,
+    "timeYear": 1482,
     "dailyMinutesDown": {
       "2022-12-08": 17
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2727,
-    "timeDay": 2727,
-    "timeWeek": 2727,
-    "timeMonth": 2727,
-    "timeYear": 2727,
+    "time": 2816,
+    "timeDay": 2816,
+    "timeWeek": 2816,
+    "timeMonth": 2816,
+    "timeYear": 2816,
     "dailyMinutesDown": {}
   }
 ]
