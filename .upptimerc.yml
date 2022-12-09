@@ -2,6 +2,10 @@
 owner: hualvwang # Your GitHub organization or username, where this repository lives
 repo: web-status # The name of this repository
 
+runner: "[self-hosted, linux, ARM64]"
+
+# user-agent: your-github-username
+
 sites:
   - name: hualv
     url: https://www.66law.cn
